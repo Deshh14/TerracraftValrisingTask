@@ -1,1 +1,1 @@
-create_project_lib(TerraTask)
+create_executable_project(TerraTask)
